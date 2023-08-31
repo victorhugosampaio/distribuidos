@@ -6,3 +6,5 @@ Projeto da AB1 da matéria de sistemas distribuídos.
 4. Foi desenvolvido um script em python para facilitar o envio dos arquivos para o bucket.
 5. Foi criado um job de transferência para enviar diariamente os arquivos de um bucket para o outro.
 6. É possível restaurar o backup de um arquivo indo em "Detalhes do objeto" → "Histórico de Versões", e escolher a versão desejada.
+
+Link do vídeo: https://youtu.be/CRKL7HCKrNQ
